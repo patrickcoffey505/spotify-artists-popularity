@@ -1,1 +1,1 @@
-"# spotify-artist-popularity" 
+# spotify-artist-popularity
